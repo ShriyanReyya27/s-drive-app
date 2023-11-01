@@ -1,0 +1,12 @@
+.node
+node_modules/
+__pycache__/
+
+id_rsa
+id_rsa.pub
+
+.env.local
+nc20*
+nc18*
+SRLookup*
+severity*
